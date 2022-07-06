@@ -1,0 +1,7 @@
+displayName: Client IP Header
+summary: Middleware for set client ip in request header.
+type: middleware
+import: github.com/scrazy77/traefik-client-ip-header
+compatibility: TODO
+testData:
+  headerName: CLIENT-IP
