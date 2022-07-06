@@ -1,4 +1,4 @@
-package traefik-client-ip-header
+package traefik_client_ip_header
 
 import (
 	"context"
